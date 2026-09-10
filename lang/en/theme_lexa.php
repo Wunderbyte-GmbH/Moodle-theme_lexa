@@ -144,3 +144,4 @@ $string['loginguesthl'] = 'Login with a guest account';
 $string['guestlogin'] = 'Create a guest account for u:rise';
 $string['forgetguestlogin'] = 'Forgot guest account password';
 $string['loginuwienbtn'] = 'Login here with u:account';
+$string['orgacontactintro'] = 'Please contact us:';

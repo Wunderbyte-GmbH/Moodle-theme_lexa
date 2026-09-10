@@ -143,3 +143,4 @@ $string['loginguesthl'] = 'Anmeldung mit Gastkonto';
 $string['guestlogin'] = 'Gastkonto für u:rise anlegen';
 $string['forgetguestlogin'] = 'Gastkonto Passwort vergessen';
 $string['loginuwienbtn'] = 'Hier mit u:account anmelden';
+$string['orgacontactintro'] = 'Bitte wenden Sie sich an:';
